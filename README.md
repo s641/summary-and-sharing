@@ -3,14 +3,14 @@
 
 ## 一、学习知识：
 ### （1）html+css+javascript
-#### 1.PC端
+  1.PC端
 
-  * 上海音智达信息技术有限公司
-  * 东信北邮信息技术有限公司
+    * 上海音智达信息技术有限公司
+    * 东信北邮信息技术有限公司
 
-#### 2.移动端、单页面应用(rem适配）
-  * app -> 校园司令
-  * 通过媒体查询结合bootstrap的栅格系统
+  2.移动端、单页面应用(rem适配）
+    * app -> 校园司令
+    * 通过媒体查询结合bootstrap的栅格系统
 ### （2） ajax + axios 
 ### （3）jquery.js 类库
 ### （4）微信小程序
@@ -20,14 +20,19 @@
 ### （8）vue.js + elementUI + Mui + mintUI
 ### （9）React.js + antd + ECharts
 
-其他
-### 原生php
-### odbc + pdo
-### thinkphp
-### 快速建站siteserver
+### 其他
+
+  1.原生php
+  
+  2.odbc + pdo
+  
+  3.thinkphp
+  
+  4.快速建站siteserver
+  
+  5.mysql
 
 ## 二、所遇问题：
-
 
 ## 三、web前端开发常用代码
 
